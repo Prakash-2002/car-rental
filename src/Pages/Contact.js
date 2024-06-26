@@ -34,12 +34,12 @@ const Contact = () => {
                 <label>
                   Full Name <b>*</b>
                 </label>
-                <input type="text" placeholder='E.g: "Joe Shmoe"'></input>
+                <input type="text" placeholder='E.g: "Prakash Jha"'></input>
 
                 <label>
                   Email <b>*</b>
                 </label>
-                <input type="email" placeholder="youremail@example.com"></input>
+                <input type="email" placeholder="prakash@gmail.com"></input>
 
                 <label>
                   Tell us about it <b>*</b>
